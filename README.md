@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm Naman 👋
 
-<!--
-**NRGaming124-dev/NRGaming124-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Class 8 student from India  
+💻 Learning Web Development (HTML & CSS)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm currently doing
+- Practicing HTML & CSS daily
+- Building small web projects
+- Improving layouts and responsiveness
+
+---
+
+### 🎯 My Goals
+- Strong fundamentals in web development
+- Build real-world projects
+- Grow consistently as a developer
+
+---
+
+### 🛠️ Tech I'm learning
+- HTML5  
+- CSS3  
+
+---
+
+📌 *This profile will grow as I grow.*
